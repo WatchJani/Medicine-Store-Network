@@ -1,0 +1,39 @@
+[
+    {
+        "Name": "Medicine Market 1",
+        "Medicine": [
+            {
+                "MedicineID": 1,
+                "MedicineName": "N13",
+                "Purpose": "T1",
+                "LevelOfEffectiveness": 2,
+                "CostInPounds": 14,
+                "Availabilit": 10
+            },
+            {
+                "MedicineID": 2,
+                "MedicineName": "M10",
+                "Purpose": "T4",
+                "LevelOfEffectiveness": 3,
+                "CostInPounds": 12,
+                "Availabilit": 8
+            },
+            {
+                "MedicineID": 3,
+                "MedicineName": "K21",
+                "Purpose": "T6",
+                "LevelOfEffectiveness": 2,
+                "CostInPounds": 10,
+                "Availabilit": 7
+            },
+            {
+                "MedicineID": 4,
+                "MedicineName": "PL1",
+                "Purpose": "T3",
+                "LevelOfEffectiveness": 3,
+                "CostInPounds": 18,
+                "Availabilit": 7
+            }
+        ]
+    }
+]
